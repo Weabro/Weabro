@@ -9,14 +9,20 @@ You can find a colors picker and have a colors code in https://htmlcolorcodes.co
 <em>Exemple :</em>
 <br>
 <code>
-  Enter the values for red: 255
+  Enter the values for red : 255
 </code>
 <br>
 <code>
-  Enter the values for green: 142
+  Enter the values for green : 142
 </code>
 <br>
 <code>
-  Enter the values for blue: 204
+  Enter the values for blue : 204
 </code>
-
+<br>
+<br>
+<code>
+Values for ImVec4 :
+</code>
+<br>
+<img src="">
