@@ -11,9 +11,11 @@ You can find a colors picker and have a colors code in https://htmlcolorcodes.co
 <code>
   Enter the values for red: 255
 </code>
+<br>
 <code>
   Enter the values for green: 142
 </code>
+<br>
 <code>
   Enter the values for blue: 204
 </code>
