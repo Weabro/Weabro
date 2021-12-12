@@ -25,4 +25,4 @@ You can find a colors picker and have a colors code in https://htmlcolorcodes.co
 Values for ImVec4 :
 </code>
 <br>
-<img src="">
+<img src="https://media.discordapp.net/attachments/709099533736345641/919548421793284117/color.png">
