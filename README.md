@@ -1,9 +1,11 @@
-### Hi there 👋
+### RGB to ImGui-ImVec4
 
-<!--
-- 🔭 I’m currently working on two degree license
-- 🌱 I’m currently learning IT
-- 💬 Ask me about create a product
-- 📫 How to reach me: !𝙒𝙚𝙖𝙗𝙧𝙤#4399
-- ⚡ Fun fact: Playing GMod.
--->
+<hr>
+
+<p>Colors are not set to 1 byte, their maximum values are 1.00f = (100). This software allows you to convert directly to ImVec4 format to save time.\n
+You can find a colors picker and colors values extractor in https://htmlcolorcodes.com/color-picker/
+</p>
+<code>
+  Enter the values for red: 
+</code>
+<p>[Values of red in 1 byte]</p>
