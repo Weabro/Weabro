@@ -9,7 +9,7 @@ You can find a colors picker and have a colors code in https://htmlcolorcodes.co
 <em>Exemple :</em>
 <br>
 <code>
-  Enter the values for red : 255
+  Enter the values for red : 250
 </code>
 <br>
 <code>
@@ -23,6 +23,9 @@ You can find a colors picker and have a colors code in https://htmlcolorcodes.co
 <br>
 <code>
 Values for ImVec4 :
+</code>
+<code>
+ImVec4(0.98f, 0.56f, 0.8f, 1.00f);
 </code>
 <br>
 <img src="https://media.discordapp.net/attachments/709099533736345641/919548421793284117/color.png">
