@@ -2,7 +2,7 @@
 
 <hr>
 
-<p>Colors are not set to 1 byte, their maximum values are 1.00f = (100). This software allows you to convert directly to ImVec4 format to save time.<br>
+<p>Colors are not set to 1 byte, their maximum values are 1.00f. This software allows you to convert directly to ImVec4 format to save time.<br>
 You can find a colors picker and have a colors code in https://htmlcolorcodes.com/color-picker/ .
 </p>
 
