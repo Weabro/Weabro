@@ -1,4 +1,4 @@
-### RGB to ImGui-ImVec4
+### Simple RGB to ImGui-ImVec4
 
 <hr>
 
