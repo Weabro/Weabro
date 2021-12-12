@@ -1,0 +1,3 @@
+﻿  colors.cpp
+C:\Users\carac\source\repos\RGB to ImVec4\RGB to ImVec4\colors.cpp(24,32): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  RGB to ImVec4.vcxproj -> C:\Users\carac\source\repos\RGB to ImVec4\x64\Debug\RGB to ImVec4.exe
